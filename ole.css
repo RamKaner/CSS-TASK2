@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Marhey:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Oswald:wght@200..700&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    font-size: 90px;
+    font-family: "Marhey", sans-serif;
+}
+
+.box {
+    width: 5pv;
+    padding: 24%;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-image: url(https://www.animalspot.net/wp-content/uploads/2015/02/Snake-Wallpapers-for-Desktop.jpg);
+}
+
+#header {
+    font-size: 150px;
+    margin: 2px 0px 78px ;
+    color: rgb(246, 157, 55);
+    text-shadow: 2px -1px 6px rgba(227,40,40,0.61);
+}
+#ptag {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 110px;
+    text-transform: capitalize;
+    text-shadow: 3px 2px 3px rgba(0,0,0,0.85);
+}
+
+#text {
+    color: aliceblue;
+    margin-top: 15px;
+    font-family:'exo2';
+    text-shadow: 4px 4px 5px rgba(253,170,86,0.66);
+}
+
+#span {
+    color: brown;
+}
+
+#button{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(241, 112, 219, 0.751);
+    border: none;
+    border-radius: 20px;
+    font-size: 90px;
+    display: block;
+    padding: 28px 40px;
+    margin: 300px 1300px;
+}
+
+.kutu{
+    border: none;
+    background-color: rgb(159, 126, 167);
+    width: 100%;
+    margin: 1px 0px 20px;
+}
+#button{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(241, 112, 219, 0.751);
+    border: none;
+    border-radius: 20px;
+    font-size: 90px;
+    display: block;
+    padding: 28px 40px;
+    margin: 300px 1300px;
+}
+
+.kutu{
+    border: none;
+    background-color: rgb(159, 126, 167);
+    width: 100%;
+    padding: 13%;
+    margin: 1px 0px 20px;
+
+}
+
+#head {
+    border: 0px;
+    color: rgb(43, 36, 36);
+    padding: 0px 0px 20px;
+    font-size: 150px;
+    text-shadow: -3px 3px 19px rgba(67,47,26,0.66);
+}
+
+#text2{
+    border: 1px;
+    font-family: 'exo2';
+    text-align: left;
+    color: black;
+    font-size: 55px;
+
+}
+
+#deri{
+    font-weight: bold;
+    font-family: 'exo2';
+    text-align: left;
+    color: black;
+    font-size: 55px;
+
+}
+
+img{
+    width: 78%;
+    height: 10%;
+    padding: 84px 0px;
+}
+
+#head2 {
+    border: 0px;
+    color: rgb(43, 36, 36);
+    padding: 180px 0px 20px;
+    font-size: 150px;
+    text-shadow: -3px 3px 19px rgba(67,47,26,0.66);
+}
+
+#text3{
+    border: 1px;
+    font-family: 'exo2';
+    text-align: left;
+    color: black;
+    font-size: 55px;
+    padding: 32px 21px;
+}
+
+#resim{
+    width: 78%;
+    height: 10%;
+    padding: 84px 0px;
+}
